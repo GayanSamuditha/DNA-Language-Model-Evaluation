@@ -1,6 +1,6 @@
 # Data Sources
 
-We utilized datasets from the paper Genomic Benchmarks: A Collection of Datasets for Genomic Sequence Classification (Link to paper). The data was downloaded from Hugging Face.
+We utilized datasets from the paper Genomic Benchmarks: A Collection of Datasets for Genomic Sequence Classification (https://bmcgenomdata.biomedcentral.com/articles/10.1186/s12863-023-01123-8). The data was downloaded from Hugging Face.
 
 This repository provides:
 
