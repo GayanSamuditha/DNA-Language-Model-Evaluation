@@ -1,4 +1,4 @@
-# DNA-Language-Model
+# DNA-Language-Models
 
 We evaluated embedding quality using four state-of-the-art DNA Language Models:
 
