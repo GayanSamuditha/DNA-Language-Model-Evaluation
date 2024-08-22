@@ -1,4 +1,4 @@
-# DNA-Language-Model-Evaluation
+# Embedding Evaluation
 
 We used 3 numerical algebra based evaluation approaches to evaluate the embedding quality
 1. RankMe
