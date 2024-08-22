@@ -1,9 +1,12 @@
-# DNA-Language-Model-Evaluation
-Unsupervised evaluation of pre-trained DNA language model embeddings
+# Data Sources
 
+We utilized datasets from the paper Genomic Benchmarks: A Collection of Datasets for Genomic Sequence Classification (Link to paper). The data was downloaded from Hugging Face.
 
-DNA language models (DLMs) have generated significant excitement for their potential to revolutionize genetics tasks, including gene finding, enhancer annotation, and histone modification. Despite their successes, these models face challenges in capturing individual-level transcriptome variation, underscoring the need for more comprehensive evaluation methods. Existing evaluation approaches often rely on computationally intensive downstream tasks and may not adequately assess a model's generalist capabilities.
-This repository presents an unsupervised evaluation framework for pre-trained DNA language model embeddings. It aims to address the limitations of current evaluation methods by providing robust and efficient metrics to gauge model performance and generalization. Our approach emphasizes the assessment of models beyond specific tasks, focusing on their ability to learn and generalize across a range of genetic contexts.
-Explore the code and methodologies for evaluating DLMs, and contribute to advancing the field of DNA language modeling through improved evaluation techniques.
+This repository provides:
+
+Code for downloading the datasets
+The dataset files used in our evaluations
+Refer to the code examples to understand how to download and use the data for your own experiments.
+
 
 ![image](https://github.com/user-attachments/assets/fd43e189-2fcf-4b03-b173-22c1c615d460)
