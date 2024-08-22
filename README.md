@@ -6,6 +6,6 @@ DNA language models (DLMs) have generated significant excitement for their poten
 
 This repository presents an unsupervised evaluation framework for pre-trained DNA language model embeddings. It aims to address the limitations of current evaluation methods by providing robust and efficient metrics to gauge model performance and generalization. Our approach emphasizes the assessment of models beyond specific tasks, focusing on their ability to learn and generalize across a range of genetic contexts.
 
-Explore the code and methodologies for evaluating DLMs, and contribute to advancing the field of DNA language modeling through improved evaluation techniques.
+Explore the code and methodologies for evaluating DLMs, and contribute to advancing the field of DNA language modeling through unsupervised evaluation techniques.
 
 ![image](https://github.com/user-attachments/assets/fd43e189-2fcf-4b03-b173-22c1c615d460)
