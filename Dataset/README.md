@@ -4,7 +4,8 @@ We utilized datasets from the paper Genomic Benchmarks: A Collection of Datasets
 
 This repository provides:
 
-Code for downloading the datasets
-The dataset files used in our evaluations
+1. Code for downloading the datasets
+2. The dataset files used in our evaluations
+
 Refer to the code examples to understand how to download and use the data for your own experiments.
 
