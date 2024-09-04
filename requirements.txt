@@ -1,0 +1,12 @@
+torch==1.13.1
+transformers==4.29.0
+pandas==2.0.0
+numpy==1.24.3
+tqdm==4.64.0
+Bio==1.81  
+einops==0.4.1
+torchvision==0.15.1
+genomic-benchmarks==0.1.4
+OmegaConf==2.2.3
+triton==2.0.0.dev20221103
+scikit-learn==1.2.2
