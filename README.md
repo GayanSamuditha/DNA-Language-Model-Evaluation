@@ -41,7 +41,7 @@ Before you begin, ensure you have the following installed:
 1. **Setup:**
    - Clone the repository: 
      ```bash
-     git clone https://github.com/your-repo/dna-language-model-evaluation.git
+     git clone https://github.com/GayanSamuditha/DNA-Language-Model-Evaluation.git
      ```
    - Install the required dependencies:
      ```bash
