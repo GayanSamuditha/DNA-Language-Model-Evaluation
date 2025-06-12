@@ -8,8 +8,7 @@ This repository presents an unsupervised evaluation framework for pre-trained DN
 
 Explore the code and methodologies for evaluating DLMs, and contribute to advancing the field of DNA language modeling through unsupervised evaluation techniques.
 
-![image](https://github.com/user-attachments/assets/fd43e189-2fcf-4b03-b173-22c1c615d460)
-
+![fig1unsupervised](https://github.com/user-attachments/assets/ae54b50f-1a93-4693-9569-b569b9f3cc4f)
 
 ## Key Features
 
